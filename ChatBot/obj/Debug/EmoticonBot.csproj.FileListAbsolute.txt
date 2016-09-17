@@ -1,0 +1,39 @@
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Bot Application1.dll.config
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Bot Application1.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Bot Application1.pdb
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Autofac.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Chronic.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Newtonsoft.Json.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.Web.Http.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Autofac.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\Newtonsoft.Json.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.Web.Http.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\obj\Debug\EmoticonBot.csprojResolveAssemblyReference.cache
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\obj\Debug\Bot Application1.dll
+C:\Users\Cmpara\Documents\Visual Studio 2015\Projects\EmoticonBot\ChatBot\obj\Debug\Bot Application1.pdb

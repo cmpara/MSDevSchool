@@ -1,0 +1,69 @@
+(angel)	angel	kind	god	friendly	gentle			
+(bandit)	bandit	rogue	thief	steal				
+(blush)	blush	flush	shy	humble	modest			
+(call)	call	phone	telephone					
+(clap)	clap	applaus						
+(cold)	cold	frost	freez	shiver	winter	snow		
+(cool)	cool	glasses	super					
+(cwl)	cwl							
+(devil)	devil	rude	mean	evil	nasty	cruel	hate	
+(doh)	doh	dame	shit	damn	darn	gosh		
+(donttalk)	shut	stop						
+(emo)	emo							
+(envy)	envy	hatred	rivalry	prejudice				
+(facepalm)	facepalm	rambl	drivel	rave	nuts			
+(giggle)	giggle	chuckle	joking					
+(grin)	evil	grin	smirk					
+(happy)	happy	cheer	merry					
+(headbang)	difficult	troubl	challeng					
+(headphones)	headphones	music	song	melody	rap	rock	jazz	folk
+(hi)	hi	hello	aloha	wave				
+(highfive)	ok	highfive	done					
+(idea)	idea	thought						
+(inlove)	love	inlove	loving	passion	lust			
+(lalala)	unhear							
+(listening)	listen	hear	ear					
+(makeup)	makeup	kate	beautif	grace	prett	glamo		
+(mm)	tasty	dream	pleasant					
+(morningafter)	hung	morning						
+(moustache)	moustache	beard	sir	mister	mr			
+(nazar)	nazar							
+(nerd)	nerd	clever	smart	brain				
+(nod)	nod	agree	yes	yeah				
+(party)	party	parting	birthday	celebrat	congratul			
+(puke)	puke	sick	spew					
+(punch)	punch	hit	bash					
+(rock)	rock							
+(rofl)	rofl	lol	rolling					
+(shake)	shake	no	disagree					
+(shock)	shock	spoiler	alert	excit				
+(slap)	slap							
+(smirk)	smirk							
+(snooze)	sleep	night	bed	snooz	dozy			
+(sweat)	sweat	hard	uneas	hot	summer			
+(talk)	talk	say	tell	chat				
+(talktothehand)	shut	stop						
+(think)	think	thought	consider	assume				
+(tmi)	scared	unsee						
+(wait)	wait	stay	halt					
+(waiting)	waiting	time	late					
+(wasntme)	sorry	apolog	guilt					
+(whew)	relief	reliev						
+(whistle)	whistle	beauty	birdie					
+(wtf)	wtf							
+(yawn)	yawn	nap	tired					
+(yn)	hope	promis	luck	success	hoping			
+:(	sad	bad	unhappy					
+:)	smile	nice	ok	good	content	glad		
+:*	kiss	love						
+:@	angr	anger	rage	furious				
+:^)	wonder	awe						
+:d	laugh	fun	ridicul	humor	humour	comic	comedy	
+:o	surpris	amaz	wonder	unusual				
+:p	cheek	tongue	insult	bold				
+:s	worr	afraid	fear	problem				
+:x	silen	secret	sealed	classif				
+:|	speechless	talkless	silen	secret				
+;(	cry	tear	weep	sob	howl	sorrow		
+;-)	wink	jok	kidding	joy	play			
+|-(	dull	uninteresting	boring	simpl	slow	stupid	dumb	dim

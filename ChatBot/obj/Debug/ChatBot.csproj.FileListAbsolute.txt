@@ -1,0 +1,39 @@
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Bot Application1.dll.config
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Bot Application1.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Bot Application1.pdb
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Autofac.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Chronic.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Newtonsoft.Json.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.Net.Http.Formatting.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.Web.Http.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.Web.Http.WebHost.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Autofac.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.Bot.Builder.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.Bot.Connector.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\Newtonsoft.Json.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.Net.Http.Formatting.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.Web.Http.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\System.Web.Http.WebHost.xml
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\obj\Debug\Bot Application1.dll
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\obj\Debug\Bot Application1.pdb
+c:\users\cmpara\documents\visual studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
